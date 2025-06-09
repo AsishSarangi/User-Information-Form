@@ -1,4 +1,4 @@
-<b>HOSTING A WEB APPLICATION FORM IN AWS SERVER</b>
+<b><h2>HOSTING A WEB APPLICATION FORM IN AWS SERVER</h2></b>
 
 Project Overview: 
        Project Topic: Implementing a Secure and Scalable Web Application on AWS Cloud with 
